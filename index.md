@@ -1,4 +1,5 @@
 ---
-title: "Welcome to my Mechanical Engineering Portfolio-posts"
+title: "Welcome to my Mechanical Engineering Portfolio"
 layout: home
 ---
+Please Browse the posts Below
