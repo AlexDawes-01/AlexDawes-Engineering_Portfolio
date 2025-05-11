@@ -19,7 +19,7 @@ A brief overview of SAE can be seen below; and some process maps developed durin
    <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/SAE.png" alt="Stacked Autoencoder Pre-Training" width="600" height="400"/>
 </div>
 <div style="text-align: center;">
- <b>Stacked Autoencoder pre-training network architecture<b>
+ <b>Stacked Autoencoder pre-training network architecture</b>
 </div>
  <br> <br>
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
@@ -27,7 +27,7 @@ A brief overview of SAE can be seen below; and some process maps developed durin
  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Process-Map-2.png" alt="P2" width="400" height="300" />
 </div>
 <div style="text-align: center;">
-  <b>Process maps to select process parameters for a given gyroid design, to acheive desired mechanical properties<b>
+  <b>Process maps to select process parameters for a given gyroid design, to acheive desired mechanical properties</b>
 </div>
  <br> <br>
 
