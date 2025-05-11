@@ -3,7 +3,7 @@ title: "Masters Year Research Project"
 date: 2024-05-21
 layout: post
 ---
-Design and Process Parameter Optimization for Improving the Mechanical Properties of LPBF Gyroid Lattices
+**Design and Process Parameter Optimization for Improving the Mechanical Properties of LPBF Gyroid Lattices**
 
 In this project, I developed neural network models to optimize the mechanical properties of triply periodic minimal surface (TPMS) gyroid lattice structures manufactured via laser powder bed fusion. By integrating process and design parameters, I successfully predicted Young's modulus and yield strength in both network and sheet gyroids made from Ti-6Al-4V, a titanium alloy crucial for biomedical implants.
 
