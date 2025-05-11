@@ -17,4 +17,4 @@ Which was needed for its application. <br>
 The design required a high temperature, chemically resilient nozzle, with appropriate bore sizes and locations.
 With the manufacturing process in mind, the tolerances applied take into account what is realistically acheivable, reducing cost for individual components,
 but are tight enough to maintain function. <br>
-<a href="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/files/Bespoke-Nozzle-holder-Drawing-Revision-2.pdf" download>Molten fluid nozzle</a>
+<a href="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/files/17-mm-insert-block.pdf" download>Molten fluid nozzle</a>
