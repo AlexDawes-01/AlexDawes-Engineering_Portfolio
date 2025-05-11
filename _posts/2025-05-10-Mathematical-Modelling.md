@@ -13,7 +13,7 @@ undergoing thermal expansion, where thermal stress arise from different expansio
 
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Radial-heat-conduction-equation.png" alt="EQ1" width="400" height="100" />
- <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Radial-FDM-equation.png" alt="EQ2" width="400" height="100" />
+ <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Radial-FDM-equation.png" alt="EQ2" width="550" height="100" />
 </div>
 <br>
 The above equations are the same, as in they are determining the same profile. Only the one on the right is the discretised version that
