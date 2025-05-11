@@ -36,8 +36,9 @@ the matrix becomes solvable, leading to solutions to the differential equations 
 This allows the system stress to be plotted, allowing me to identify the appropriate thickness for a graphite susceptor.
 This was done in python. 
 <br>
-The google Colab file can be found here.
+The google Colab file can be found here.<br>
 [Run the 2D Induction Furnace model in Colab](https://colab.research.google.com/github/AlexDawes-Engineering_Portfolio/AlexDawes-Engineering_Portfolio/blob/main/assets/files/Copy_of_Arch_IF_2D_model.ipynb)
-<br>
+<br><br>
 
 <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Stress-dist-cylinders.png" alt="Stress distribution in cylinders" width="600" height="400" />
+<br>
