@@ -41,7 +41,7 @@ Please feel free to download the original submission here. <a href="https://alex
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Crush-Lattice.png" alt="" width="400" height="200"/>
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Gyroid-SEM.png" alt="" width="400" height="300"/>
 </div>
-
+<br>
 <div style="text-align: center;">
   <b>Images of the lattices involved during the study, failure mechanisms and SEM imagery.</b>
 </div>
