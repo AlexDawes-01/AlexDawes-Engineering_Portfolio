@@ -21,5 +21,5 @@ avionics and analog cameras are quite cool. Plus being able to fly them is extre
 While you're here, take a look at the other posts to learn more about my previous projects!
 
 
-<img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/main/assets/images/UOB-logo.PNG" alt="University of Birmingham" width="300" />
+<img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/UOB-logo.PNG" alt="University of Birmingham" width="300" />
 
