@@ -21,7 +21,7 @@ A brief overview of SAE can be seen below; and some process maps developed durin
 <div style="text-align: center;">
  Stacked Autoencoder pre-training network architecture
 </div>
- 
+ <br> <br>
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Process-Map-1.png" alt="P1" width="400" height="300" />
  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Process-Map-2.png" alt="P2" width="400" height="300" />
@@ -29,7 +29,7 @@ A brief overview of SAE can be seen below; and some process maps developed durin
 <div style="text-align: center;">
   Process maps to select process parameters for a given gyroid design, to acheive desired mechanical properties
 </div>
-
+ <br> <br>
 
 This project enhanced my expertise in both LPBF manufacturing and applied machine learning, paticularly within the realm of additive manufacturing. 
 
