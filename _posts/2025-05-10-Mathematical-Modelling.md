@@ -36,7 +36,7 @@ I created a matrix system describing the interfaces of the different cylindrical
 the matrix becomes solvable, leading to solutions to the differential equations describing the stress and strain of each element.
 This allows the system stress to be plotted, allowing me to identify the appropriate thickness for a graphite susceptor.
 This was done in python. 
-<br>
+<br><br>
 The google Colab file can be found here CTRL+click.<br>
 [Open this model in Google Colab](https://colab.research.google.com/github/AlexDawes-01/AlexDawes-Engineering_Portfolio/blob/main/assets/files/Stress_Cylinders_script.ipynb)
 <br><br>
