@@ -7,7 +7,7 @@ layout: post
 
 **Industrial Process Automation: Safety-Enhanced Control System with Siemens S7-1200 PLC**
 
-Led the automation of Cocoons novel slag upcycling system by implementing a comprehensive control system using a Siemens S7-1200 series PLC. Designed and programmed robust safety protocols including automatic sensor triggered  shutoffs and loss of power logic to ensure operational compliance with slag handlers. Engineered real-time monitoring capabilities that track performance, enabling data-driven decision making and fault detection. Developed a secure remote access interface that allows operators to monitor and control the system from a safe distance, resulting in total operator saftey and reduction in response time to critical events. 
+I led the automation of Cocoons novel slag upcycling system by implementing a comprehensive control system using a Siemens S7-1200 series PLC. I designed and programmed robust safety protocols including automatic sensor triggered  shutoffs and loss of power logic to ensure operational compliance with slag handlers. I engineered real-time monitoring capabilities that track performance, enabling data-driven decision making and fault detection. Developing a secure remote access interface that allows operators to monitor and control the system from a safe distance, resulting in total operator saftey and reduction in response time to critical events. 
 
 This project has given me practical experience in implementing control systems, wiring electrical control cabinet, analogue and digital signalling, and PLC programming.
 As well as enabling Cocoon to begin to test the process on an operational steel plant, a huge step in the transition of startup to profit generating company. 
