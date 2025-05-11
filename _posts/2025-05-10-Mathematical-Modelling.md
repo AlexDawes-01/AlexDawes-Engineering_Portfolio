@@ -20,7 +20,7 @@ The above equations are the same, as in they are determining the same profile. O
 i used to implement on a computer, using python. With this method, i could assign points within the area of interest nodes, and determine how
 heat was transferred across these nodes across a given timeframe. Using experimentally derived source terms and appropriate boundary conditions, I used the method
 to simulate the temporal behaviour of a graphite susceptor in an induction furnace encased in refractory materials. Which was then used to 
-determine what furnace power was to selected for appropriate tempertaure control. Several graphite geometries were investigated. 
+determine what furnace power was to selected for appropriate tempertaure control. Several graphite geometries were investigated. <br><br>
 Please find the Colab File here CTRL+Click: [Open a version of the FDM model in Google Colab (Runtime 2 mins)](https://colab.research.google.com/github/AlexDawes-01/AlexDawes-Engineering_Portfolio/blob/main/assets/files/Copy_of_Arch_IF_2D_model.ipynb)
 <br><br>
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
