@@ -5,7 +5,7 @@ layout: post
 ---
 
 Please Find attached two of my engineering drawings, which were used by manufacturers to fabricate parts which were subsequently
-used within their relevant systems. 
+used within their relevant systems. <br><br>
 <b>High Pressure Nozzle Holder</b>
 <br>
 The task was to design a nozzle with an NPT internal threading, that could sustain pressures of 400 bar internally. To be mounted on 40-40 extrusion, and could interchange nozzles of different bore.
