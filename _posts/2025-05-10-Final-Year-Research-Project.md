@@ -15,11 +15,11 @@ I implemented Stacked Autoencoder (SAE) pre-training to overcome limited data ch
 While identifying limitations such as surface quality issues and data set size, my work establishes a methodology to develop process maps to guide design and fabrication to tailor gyroid based implants to individual patients.
 And serves asfoundation for future research in physics-informed neural networks and real-time monitoring techniques.
 A brief overview of SAE can be seen below; and some process maps developed during this work.  
- <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/SAE.PNG" alt="Stacked Autoencoder Pre-Training" width="400" />
+ <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/SAE.png" alt="Stacked Autoencoder Pre-Training" width="400" />
 
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
- <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Process-Map-1.PNG" alt="P1" width="400" />
- <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Process-Map-2.PNG" alt="P2" width="400" />
+ <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Process-Map-1.png" alt="P1" width="400" />
+ <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Process-Map-2.png" alt="P2" width="400" />
 </div>
 
 This project enhanced my expertise in both LPBF manufacturing and applied machine learning, paticularly within the realm of additive manufacturing. 
