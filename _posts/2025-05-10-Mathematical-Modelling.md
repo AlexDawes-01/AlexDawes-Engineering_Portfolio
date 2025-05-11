@@ -27,12 +27,16 @@ determine what furnace power was to selected for appropriate tempertaure control
  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/triangleFDM.png" alt="Graphite Triangles" width="400" height="300" />
 </div>
 <br><br>
-<b>Model 2: Cylindrical thermal stresses </b><br>
+<b>Model 2: Cylindrical thermal stresses </b><br><br>
 Within a system a hollow graphite cylinder enacased on either side by different refractory material, graphite susceptors would crack, due to thermal stresses. 
 These needed to be better understood in order to mitigate them,and aid the design of new susceptors which did not break during operation. 
 I used an approach based on the fundamental theory of elasticity in cylindrical co-ordinates, based on Lames equations.
 I created a matrix system describing the interfaces of the different cylindrical elements, and implementing boundary conditions;
 the matrix becomes solvable, leading to solutions to the differential equations describing the stress and strain of each element.
 This allows the system stress to be plotted, allowing me to identify the appropriate thickness for a graphite susceptor.
-This was done in python. The google Colab file can be found here.
+This was done in python. 
+<br>
+The google Colab file can be found here.
+<br>
+
 <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Stress-dist-cylinders.png" alt="Stress distribution in cylinders" width="600" height="400" />
