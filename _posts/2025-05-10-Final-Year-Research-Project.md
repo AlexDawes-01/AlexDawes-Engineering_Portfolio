@@ -33,7 +33,7 @@ A brief overview of SAE can be seen below; and some process maps developed durin
 
 This project enhanced my expertise in both LPBF manufacturing and applied machine learning, paticularly within the realm of additive manufacturing. 
 
-This project has since been adapted into the format of a journal paper and is currently under peer review by Progress in additive manufacturing, springer nature <a href="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/files/Final-Report.pdf" download>Journal Correspondence and list of authors</a>.
+This project has since been adapted into the format of a journal paper and is currently under peer review by Progress in additive manufacturing, springer nature <a href="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/files/Journal-Paper.pdf" download>Journal Correspondence and list of authors</a>.
 
 Please feel free to download the original submission here. <a href="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/files/Final-Report.pdf" download>Download the Original Submission</a>
 
