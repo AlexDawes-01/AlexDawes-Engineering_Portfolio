@@ -8,7 +8,7 @@ In my time studying for my Meng In mechanical Engineering at the University of B
 and as a Research and Development Engineer at a steel slag valorisation startup (Cocoon Carbon) 
 working alongside engineers and scientists developing a novel slag upcycling process. 
 
-About me:
+<b>About me:</b>
 I'm a passionate engineer, driven by a deep curiosity for how things work and a desire to solve real-world problems.
 I thrive on hands-on projects and continuous learning, always looking for opportunities to apply theory to practice. 
 Which the projects on this website showcase. 
