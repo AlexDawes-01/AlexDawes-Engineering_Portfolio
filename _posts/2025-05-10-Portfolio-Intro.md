@@ -26,3 +26,7 @@ While you're here, take a look at the other posts to learn more about my previou
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Alex-Prize.PNG" alt="Alex Prize" width="280" />
 </div>
 
+<div style="display: flex; gap: 20px; align-items: center; justify-content: center;"><img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/UOB-logo.PNG" alt="University of Birmingham" width="250" />
+  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Alex_MPI.PNG" alt="Alex at MPI" width="280" />
+  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Alex-Prize.PNG" alt="Alex Prize" width="280" />
+</div>
