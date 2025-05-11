@@ -37,7 +37,7 @@ This allows the system stress to be plotted, allowing me to identify the appropr
 This was done in python. 
 <br>
 The google Colab file can be found here.<br>
-[Open this model in Google Colab](https://colab.research.google.com/github/AlexDawes/Engineering_Portfolio/blob/main/assets/files/Copy_of_Arch_IF_2D_model.ipynb)
+[Open this model in Google Colab](https://colab.research.google.com/github/AlexDawes-01/AlexDawes-Engineering_Portfolio/blob/main/assets/files/Copy_of_Arch_IF_2D_model.ipynb)
 <br><br>
 
 <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Stress-dist-cylinders.png" alt="Stress distribution in cylinders" width="600" height="400" />
