@@ -18,6 +18,6 @@ Which is something I enjoyed as applying the maths I have learnt prior in Univer
 Some Images from the trial are below, but due to contractual obligations, I cannot share more than this. 
 <br>
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
-  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/EAF-MPI.jpg" alt="" width="400" height="400"/>
-  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Trial-Automation.PNG" alt="" width="300" height="300"/>
+  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/EAF-MPI.jpg" alt="Electric Arc Furnace" width="400" height="400"/>
+  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Trial-Automation.PNG" alt="Slag trial" width="400" height="400"/>
 </div>
