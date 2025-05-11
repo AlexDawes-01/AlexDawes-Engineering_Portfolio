@@ -16,7 +16,7 @@ These observations have helped me outline promising directions for future resear
 This work has deepened my expertise in both LPBF manufacturing and applied machine learning while contributing valuable insights to the field.
 By connecting computational modeling with practical fabrication challenges, my research offers a meaningful step forward in the growing field of additive manufacturing and its applications in biomedical engineering.
 
-This project has since been adapted into the format of a journal paper and is currently under peer review by Progress in additive manufacturing, springer nature.<a href="/assets/files/Progress in Additive Manufacturing_ Decision on _Design and Process Parameter Optimization for Improving the Mechanical Properties of LPBF Gyroid Lattices_.eml" download>Download the email</a>
+This project has since been adapted into the format of a journal paper and is currently under peer review by Progress in additive manufacturing, springer nature.<a href="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/files/Progress in Additive Manufacturing_ Decision on _Design and Process Parameter Optimization for Improving the Mechanical Properties of LPBF Gyroid Lattices_.eml" download>Download the email</a>
 
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/UOB-logo.PNG" alt="University of Birmingham" width="250" />
