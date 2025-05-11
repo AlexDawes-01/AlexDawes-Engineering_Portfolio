@@ -1,0 +1,80 @@
+Delivered-To: alexander.dawes01@gmail.com
+Received: by 2002:a59:8b47:0:b0:4c5:4552:625d with SMTP id x7csp2935398vql;
+        Sat, 5 Apr 2025 04:41:09 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IHDYWT/1ejpfYYWbxeUXlTxTKfZcoh6I96NuEfYSS5FrnxaRJzd65D7x0Bh/jRZ+2KfhiRP
+X-Received: by 2002:a05:6902:2311:b0:e5e:1389:cb2f with SMTP id 3f1490d57ef6-e6e318eaa2bmr3990464276.45.1743853268915;
+        Sat, 05 Apr 2025 04:41:08 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1743853268; cv=none;
+        d=google.com; s=arc-20240605;
+        b=DVuNfDOVGEzi0k1UwIWKXrKPIf+j/DDgqSTFf3B/n45B1DLZtXADXjACTwjJLbQuwR
+         8Mm05IHZ2uCzsJNzjDs8MAp7WJ0b24RP73ZCu4QZTdyOHsWVKpuotIgdNwmopCk2tBJ2
+         d+7ozAvrYJXEyJmXM0yTaqyAJpVwW4NzhkiKjfhyKZR67JGmYCrNrvOPYcBep5pFOpKD
+         qBqnNpRgp9NxV8bDwbsXhfDpZ/dwQBv1CKIExFZGqCmU3jr8zLaGkYIYxbONKbUKpp7J
+         1J5q/yt3b+QoT8XLbX8vz64/IdIAgd9wbgLyOKDeUjjrUZPV7BY3d2PUWQhMu1Wci5YS
+         zSHw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=from:subject:mime-version:content-transfer-encoding:date:message-id
+         :to:dkim-signature;
+        bh=YsFRWLgGLkStXyd0IR/NU/Ue1n59/BccF8c0Xbh0uQc=;
+        fh=Jtlef6/kaKExnT3ZngPGaug44QL2XHxizHKnlItnTew=;
+        b=Ae0/qnNSnY3x+SAT9sugtY7mDeknKbGMV2lmnRWMWajwDzc9IXlJZrQMXx4ev6l3wq
+         MO1Hnv3qZWViQn3Dufd3I9YdQLjxLheRBXqEn1D6X7iQyvQv8suEriAuc3Xq0QOE1hL8
+         H7pbN1dHFlYrV1Zv0ZU8DMxhgfHTrH3c5jinfLwzfoSVI6yXZ+WfS4d8YPI/rD/sv9Pj
+         KhK2iIktnBG3KMoMS8AbguHhOl6VImMjwSiEc8tUzMCCujO2YDpegofAPj8VsOwy+6PB
+         HeQhq2l0KrMikKB8tuoI0hMxpRY6sA80wHxWHaOIC7nYuU0H/2qkSqaqz+5WQokZsw9f
+         NYaw==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@springernature.com header.s=scph1116 header.b=mmk1LCPu;
+       spf=pass (google.com: domain of msprvs1=20190j6qgqkhe=bounces-17638-1813@sn-bounce.springernature.com designates 192.174.90.91 as permitted sender) smtp.mailfrom="msprvs1=20190j6qgqKHe=bounces-17638-1813@sn-bounce.springernature.com";
+       dmarc=pass (p=REJECT sp=NONE dis=NONE) header.from=springernature.com
+Return-Path: <msprvs1=20190j6qgqKHe=bounces-17638-1813@sn-bounce.springernature.com>
+Received: from mta-90-91.sparkpostmail.com (mta-90-91.sparkpostmail.com. [192.174.90.91])
+        by mx.google.com with ESMTPS id 3f1490d57ef6-e6e0cad912dsi6904466276.374.2025.04.05.04.41.08
+        for <alexander.dawes01@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 05 Apr 2025 04:41:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of msprvs1=20190j6qgqkhe=bounces-17638-1813@sn-bounce.springernature.com designates 192.174.90.91 as permitted sender) client-ip=192.174.90.91;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@springernature.com header.s=scph1116 header.b=mmk1LCPu;
+       spf=pass (google.com: domain of msprvs1=20190j6qgqkhe=bounces-17638-1813@sn-bounce.springernature.com designates 192.174.90.91 as permitted sender) smtp.mailfrom="msprvs1=20190j6qgqKHe=bounces-17638-1813@sn-bounce.springernature.com";
+       dmarc=pass (p=REJECT sp=NONE dis=NONE) header.from=springernature.com
+Return-Path: <msprvs1=20190j6qgqKHe=bounces-17638-1813@sn-bounce.springernature.com>
+X-MSFBL: jgYPbKclih0CoyXynf1ntVd1GSUHmNFO80IOy38l3qs=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJjdXN0b21lcl9pZCI6IjE3NjM4Iiwic3ViYWNjb3VudF9pZCI6IjE4MTM
+	iLCJtZXNzYWdlX2lkIjoiNjdlY2QzMTZmMTY3M2RhZTIyZTEiLCJyIjoiYWxleGF
+	uZGVyLmRhd2VzMDFAZ21haWwuY29tIn0=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=springernature.com;
+	s=scph1116; t=1743853267; i=@springernature.com;
+	bh=YsFRWLgGLkStXyd0IR/NU/Ue1n59/BccF8c0Xbh0uQc=;
+	h=To:Message-ID:Date:Content-Type:Subject:From:From:To:Cc:Subject;
+	b=mmk1LCPuTV2CQp95WUc8KHPyobI1xga85ldUaX/C/RJZy2psurhV9NdTg9feBhCMY
+	 WsaLBQbtw2nwWAHBmo9IWREYew/snDQxhIhmNOLt4uJDSUIOl9oqPygB+O3gXPvcxu
+	 USLvDs7A7ELJxShEic41jtV+qWdFSQx9CCddE8qk=
+Received: from [10.90.10.213] ([10.90.10.213])
+	by i-03e66a6c61d7e58ac.mta1vrest.sd.prd.sparkpost (ecelerity 4.8.0.74368 r(msys-ecelerity:tags/4.8.0.17)) with REST
+	id 1E/22-56157-3D611F76; Sat, 05 Apr 2025 11:41:07 +0000
+To: alexander.dawes01@gmail.com
+Message-ID: <1E.22.56157.3D611F76@i-03e66a6c61d7e58ac.mta1vrest.sd.prd.sparkpost>
+Date: Sat, 05 Apr 2025 11:41:07 +0000
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Subject: Progress in Additive Manufacturing: Decision on "Design and Process Parameter Optimization for Improving the Mechanical Properties of LPBF Gyroid Lattices"
+From: "Progress in Additive Manufacturing" <do-not-reply@springernature.com>
+
+Dear Dr Keith,=0A=0ARe: "Design and Process Parameter Optimization for Impr=
+oving the Mechanical Properties of LPBF Gyroid Lattices"=0A=0AThe correspon=
+ding author has been asked to revise the above submission on which you are =
+listed as a contributing author. Meanwhile, we would be grateful if you wou=
+ld carefully check the author details, including spelling and sequence of g=
+iven and family names; email and affiliation:=0A=0ACorresponding author:=0A=
+Hany Hassanin=0Ahany.hassanin@canterbury.ac.uk=0ACanterbury Christ Church U=
+niversity GB=0A=0AAlexander Keith=0Aalexander.dawes01@gmail.com=0AUniversit=
+y of Birmingham GB=0A=0AAli Hassan=0AA.Hassan@tees.ac.uk=0ATeesside Univers=
+ity GB=0A=0AKhamis Essa=0Ak.e.a.essa@bham.ac.uk=0AUniversity of Birmingham =
+GB=0A=0AIf you spot any errors, please contact the corresponding author dir=
+ectly to ensure the revision moves smoothly through the submission process.=
+=0A=0AKind regards,=0A=0AEditorial Assistant=0AProgress in Additive Manufac=
+turing
+
