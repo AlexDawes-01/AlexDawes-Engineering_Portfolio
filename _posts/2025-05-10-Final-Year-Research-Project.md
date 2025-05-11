@@ -29,7 +29,7 @@ This project has since been adapted into the format of a journal paper and is cu
 Please feel free to download the original submission here. <a href="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/files/Final-Report.pdf" download>Download the Original Submission</a>
 
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
-  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Crush-Lattice.png" alt="" width="600" height="300"/>
-  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Gyroid-SEM.png" alt="" width="300" height="300"/>
+  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Crush-Lattice.png" alt="" width="400" height="200"/>
+  <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Gyroid-SEM.png" alt="" width="400" height="300"/>
   
 </div>
