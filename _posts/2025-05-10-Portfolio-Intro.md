@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Introduction: About Me"
-date: 2025-05-10
+date: 2025-05-12
 layout: post
 ---
 This portfolio showcases the engineering projects I have undertaken during my time studying for an MEng in Mechanical Engineering at the University of Birmingham, as well as my work as a Research and Development Engineer at Cocoon Carbon, 
