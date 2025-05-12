@@ -13,3 +13,6 @@ and to enhance my understanding of conmmercial CFD and FEA softwares.
 Please see an image from a simple multiphase slag flow simulation I have created using multiphaseInterFoam on OpenFoam.
 <br><br>
 
+<div style="text-align: center;">
+   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/OpenFoam-basics.png" alt="OpenFoam Screenshot" width="800" height="600"/>
+</div>
