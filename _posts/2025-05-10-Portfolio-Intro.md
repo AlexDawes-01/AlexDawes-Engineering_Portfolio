@@ -15,7 +15,9 @@ My hobbies include reading—I'm currently halfway through the second book in Th
 I've also recently gotten into FPV drone design. I enjoy the customization options in the avionics, and analog cameras are very cool. Plus, flying them is incredibly fun.
 
 While you're here, feel free to explore the other posts to learn more about my previous projects!
-
+<br><br>
+[Connect with me on LinkedIn](www.linkedin.com/in/alexander-dawes-711473289)
+<br><br>
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/UOB-logo.PNG" alt="University of Birmingham" width="250" />
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Alex_MPI.PNG" alt="Alex at MPI" width="280" />
