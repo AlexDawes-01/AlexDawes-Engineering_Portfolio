@@ -7,16 +7,17 @@ layout: post
 
 **Industrial Process Automation: Safety-Enhanced Control System with Siemens S7-1200 PLC**
 
-I led the automation of Cocoons novel slag upcycling system by implementing a comprehensive control system using a Siemens S7-1200 series PLC. I designed and programmed robust safety protocols including automatic sensor triggered  shutoffs and loss of power logic to ensure operational compliance with slag handlers. I engineered real-time monitoring capabilities that track performance, enabling data-driven decision making and fault detection. Developing a secure remote access interface that allows operators to monitor and control the system from a safe distance, resulting in total operator saftey and reduction in response time to critical events. 
+I led the automation of Cocoon's novel slag upcycling system by implementing a comprehensive control system using a Siemens S7-1200 series PLC. I designed and programmed robust safety protocols, including automatic sensor-triggered shutdowns and loss-of-power logic, to ensure operational compliance with slag handlers. 
+I also engineered real-time monitoring capabilities to track performance, enabling data-driven decision-making and early fault detection. 
+Additionally, I developed a secure remote access interface, allowing operators to monitor and control the system from a safe distance—greatly enhancing operator safety and reducing response times to critical events.
 
-This project has given me practical experience in implementing control systems, wiring electrical control cabinet, analogue and digital signalling, and PLC programming.
-As well as enabling Cocoon to begin to test the process on an operational steel plant, a huge step in the transition of startup to profit generating company. 
+This project gave me practical, hands-on experience in control system implementation, including PLC programming, analogue and digital signalling, and wiring electrical control cabinets. 
+It also enabled Cocoon to begin testing the process in an operational steel plant—a major milestone in the company’s journey from startup to revenue-generating business.
 
-Above all, this project has given me the perspective on the role of controllers in all applications, the benefit of simple robust logic,
-failsafes, minimising computational complexity to improve performance and tuning control systems for real world application.
-Which is something I enjoyed as applying the maths I have learnt prior in University was a full circle moment for me. 
-Some Images from the trial are below, but due to contractual obligations, I cannot share more than this. 
-<br>
+Above all, this project deepened my understanding of the role of control systems across engineering applications. I saw firsthand the value of simple, robust logic; the importance of failsafes; and the benefits of minimizing computational complexity to improve performance. 
+Tuning the system for real-world conditions—and applying the mathematical concepts I'd learned at university—was a rewarding, full-circle moment for me.
+
+Some images from the trial are shown below. Due to contractual obligations, I cannot share more than this.
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/EAF.jpg" alt="Electric Arc Furnace" width="400" height="400"/>
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Trial-Automation.PNG" alt="Slag trial" width="400" height="280"/>
