@@ -3,7 +3,7 @@ title: "Current Learning"
 date: 2025-05-12
 layout: post
 ---
-<br>
+
 **What I'm Currently Learning**
 <br><br>
 I have recently been interested in developing my coding and simulation skills, by pursuing several OpenFoam course on Udemy.
