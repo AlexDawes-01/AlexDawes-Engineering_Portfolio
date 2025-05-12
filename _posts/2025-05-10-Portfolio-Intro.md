@@ -20,7 +20,9 @@ While you're here, feel free to explore the other posts to learn more about my p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn" style="vertical-align:middle; margin-right:4px;">
   Connect with me on LinkedIn
 </a>
+<a href="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/files/Reference-Alex Dawes-Khamis-Essa.pdf" download>Reference from Dr Khamis Essa, my Final Year project Supervisor</a>
 <br><br>
+
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/UOB-logo.PNG" alt="University of Birmingham" width="250" />
   <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/Alex_MPI.PNG" alt="Alex at MPI" width="280" />
