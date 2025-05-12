@@ -4,7 +4,7 @@ date: 2025-05-12
 layout: post
 ---
 This portfolio showcases the engineering projects I have undertaken during my time studying for an MEng in Mechanical Engineering at the University of Birmingham, as well as my work as a Research and Development Engineer at Cocoon Carbon, 
-a steel slag startup. There, I work with engineers and scientists in developing a novel slag upcycling process, wjich in my time at the company has gone from TRL 4 to TRL 7.
+a steel slag startup. There, I work with engineers and scientists in developing a novel slag upcycling process, which in my time at the company has gone from TRL 4 to TRL 7.
 
 <b>About me:</b>
 I'm a passionate engineer, driven by a deep curiosity for how things work and a desire to solve real-world problems. 
