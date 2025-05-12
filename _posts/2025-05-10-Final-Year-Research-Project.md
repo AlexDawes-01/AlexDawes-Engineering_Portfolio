@@ -5,16 +5,20 @@ layout: post
 ---
 **Design and Process Parameter Optimization for Improving the Mechanical Properties of LPBF Gyroid Lattices**
 
-In this project, I developed neural network models to optimize the mechanical properties of triply periodic minimal surface (TPMS) gyroid lattice structures manufactured via laser powder bed fusion. By integrating process and design parameters into a neural network model, I successfully predicted Young's modulus and yield strength in both network and sheet gyroids made from Ti-6Al-4V, a titanium alloy crucial for biomedical implants.
+In this project, I developed neural network models to optimize the mechanical properties of triply periodic minimal surface (TPMS) gyroid lattice structures manufactured via laser powder bed fusion.
+By integrating process and design parameters into a neural network, I successfully predicted Young’s modulus and yield strength in both network and sheet gyroids made from Ti-6Al-4V—a titanium alloy widely used in biomedical implants.
 
-My research revealed that network gyroids display simpler process-thermal-structure-property relationships, while sheet variants achieve superior mechanical properties despite greater variability.
-I'm particularly pleased that these findings have direct applications for bone implants, where appropriate mechanical properties prevent stress shielding; which can lead to 
-failure of any implants.
+My research found that network gyroids exhibit simpler process-thermal-structure-property relationships, while sheet gyroids achieve superior mechanical performance, albeit with greater variability. 
+I'm particularly proud that these findings have direct applications in the design of bone implants, where matching mechanical properties to surrounding bone is critical to prevent stress shielding—a common cause of implant failure.
 
-I implemented Stacked Autoencoder (SAE) pre-training to overcome limited data challenges, which notably improved prediction accuracy for mechanical properties. 
-While identifying limitations such as surface quality issues and data set size, my work establishes a methodology to develop process maps to guide design and fabrication to tailor gyroid based implants to individual patients.
-And serves asfoundation for future research in physics-informed neural networks and real-time monitoring techniques.
-A brief overview of SAE can be seen below; and some process maps developed during this work.  
+To address the challenge of limited data, I implemented Stacked Autoencoder (SAE) pre-training, which significantly improved the model's predictive accuracy. 
+While surface quality and dataset size remain limiting factors, this work establishes a framework for generating process maps to guide the design and fabrication of gyroid-based implants tailored to individual patients.
+
+It also lays the groundwork for future research in physics-informed neural networks and real-time monitoring techniques.
+
+Below is a brief overview of the SAE architecture used, along with some of the process maps developed during this work.
+
+
 <div style="text-align: center;">
    <img src="https://alexdawes-01.github.io/AlexDawes-Engineering_Portfolio/assets/images/SAE.png" alt="Stacked Autoencoder Pre-Training" width="600" height="400"/>
 </div>
