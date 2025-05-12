@@ -1,6 +1,6 @@
 ---
 title: "Mathematical Modelling Experience"
-date: 2024-05-21
+date: 2024-10-30
 layout: post
 ---
 **My Experience developing Matehmatical models**
