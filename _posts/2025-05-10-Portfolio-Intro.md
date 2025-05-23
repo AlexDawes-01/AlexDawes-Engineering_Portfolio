@@ -8,10 +8,10 @@ a steel slag startup. There, I work with engineers and scientists in developing 
 
 <b>About me:</b>
 I'm a passionate engineer, driven by a deep curiosity for how things work and a desire to solve real-world problems. 
-I thrive on hands-on projects and continuous learning, always seeking opportunities to apply theory to practice—which the projects on this website reflect.
+I thrive on hands on projects and continuous learning, always seeking opportunities to apply theory to practice, which the projects on this portfolio reflect.
 
 Outside of engineering, I enjoy sports: I play ice hockey and football, though I can happily watch just about anything.
-My hobbies include reading—I'm currently halfway through the second book in The Three Musketeers series by Dumas, which I highly recommend. 
+My hobbies include reading, I'm currently halfway through the second book in The Three Musketeers series by Dumas which I highly recommend. 
 I've also recently gotten into FPV drone design. I enjoy the customization options in the avionics, and analog cameras are very cool. Plus, flying them is incredibly fun.
 
 While you're here, feel free to explore the other posts to learn more about my previous projects!
