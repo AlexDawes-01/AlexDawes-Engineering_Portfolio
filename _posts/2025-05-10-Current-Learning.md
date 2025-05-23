@@ -6,8 +6,9 @@ layout: post
 
 **What I'm Currently Learning**
 <br><br>
-In order to supplement my CFD experience from university using commercial codes such as Ansys Fluent, I have been interested in getting closer to the underlying maths, 
-then I heard about OpenFoam, where the solvers and variables are easily accesible in files and can be edited with complete bespoke control. Meaning the set-up is harder, but usage rewards more understanding. 
+To build on the CFD experience I gained at university using commercial tools like ANSYS Fluent, I’ve been keen to deepen my understanding of the underlying mathematics. 
+That led me to OpenFOAM, an open-source CFD platform where the solvers and variables are fully accessible and customizable through editable files.
+While the setup is more complex compared to commercial software, it offers far greater insight and control, rewarding users with a deeper grasp of the physics and numerical methods involved.
 In light of this goal and to develop my coding and simulation skills, I am pursuing several OpenFoam course on Udemy.
 I hope to be able to use the open source software to one day develop my own computational models to solve bespoke engineering problems,
 enhancing my understanding of commercial CFD and FEA softwares.
