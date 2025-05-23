@@ -6,13 +6,13 @@ layout: post
 **Design and Process Parameter Optimization for Improving the Mechanical Properties of LPBF Gyroid Lattices**
 
 In this project, I developed neural network models to optimize the mechanical properties of triply periodic minimal surface (TPMS) gyroid lattice structures manufactured via laser powder bed fusion.
-By integrating process and design parameters into a neural network, I successfully predicted Young’s modulus and yield strength in both network and sheet gyroids made from Ti-6Al-4V—a titanium alloy widely used in biomedical implants.
+By integrating process and design parameters into a neural network, I successfully predicted Young’s modulus and yield strength in both network and sheet gyroids made from Ti-6Al-4V, a titanium alloy widely used in biomedical implants.
 
 My research found that network gyroids exhibit simpler process-thermal-structure-property relationships, while sheet gyroids achieve superior mechanical performance, albeit with greater variability. 
-I'm particularly proud that these findings have direct applications in the design of bone implants, where matching mechanical properties to surrounding bone is critical to prevent stress shielding—a common cause of implant failure.
+I'm particularly proud that these findings have direct applications in the design of bone implants, where matching mechanical properties to surrounding bone is critical to prevent stress shielding; a common cause of implant failure.
 
 To address the challenge of limited data, I implemented Stacked Autoencoder (SAE) pre-training, which significantly improved the model's predictive accuracy. 
-While surface quality and dataset size remain limiting factors, this work establishes a framework for generating process maps to guide the design and fabrication of gyroid-based implants tailored to individual patients.
+While surface quality and dataset size remain limiting factors, this work establishes a framework for generating process maps to guide the design and fabrication of gyroid based implants tailored to individual patients.
 
 It also lays the groundwork for future research in physics-informed neural networks and real-time monitoring techniques.
 
